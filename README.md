@@ -36,18 +36,19 @@ ChatWithSQL is a **production-grade** Streamlit application that empowers users 
 ```bash
 git clone https://github.com/YOUR_USERNAME/chatwithsql.git
 cd chatwithsql
-
+```
 ### 2. Create & Populate the Sample DB
 ```bash
 python sqlite.py  # creates student.db with sample data
-
+```
 ### 3. Install Required Packages
 ```bash
 pip install -r requirements.txt
-
+```
 ### 4.  Launch the Application
 ```bash
 streamlit run app.py
+```
 
 ### 5. Connect & Interact
 Choose between SQLite3 or MySQL from the sidebar.
