@@ -1,0 +1,8 @@
+langchain-text-splitters
+streamlit
+langchain-groq
+langchain
+langchain-community
+sqlite3
+python-dotenv
+mysql-connector-python
